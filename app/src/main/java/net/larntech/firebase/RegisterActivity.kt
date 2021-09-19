@@ -41,6 +41,7 @@ class RegisterActivity : AppCompatActivity() {
                 Toast.makeText(this," All inputs required ...",Toast.LENGTH_LONG).show()
             }
 
+
         }
 
         binding.llAccount.setOnClickListener {
